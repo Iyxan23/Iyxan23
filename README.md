@@ -1,8 +1,10 @@
-<h1>Iyxan23 (NurIhsan)</h1> <img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" align="right" height="100px">
+<h1>Iyxan23 (NurIhsan)</h1> <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-Hello there! I'm a 13 y.o student who loves to code! I currently am working on a big project, [OpenBlocks](https://github.com/OpenBlocksTeam)! An open-source, modular alternative to Sketchware
+Hi, I'm a 13 y.o student who loves to code! I currently am working on a big project, [OpenBlocks](https://github.com/OpenBlocksTeam)! An open-source, modular alternative to Sketchware
 
 You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twitter.com/Iyxan23), and [Telegram](https://t.me/Iyxan23).
+
+<img src="https://komarev.com/ghpvc/?username=Iyxan23" alt="Iyxan23" />
 
 ----------
 
@@ -33,17 +35,3 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 ----------
 
 Forked from [ryenyuku](https://github.com/ryenyuku/ryenyuku)
-<!--
-**ryenyuku/ryenyuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
