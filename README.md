@@ -21,6 +21,10 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 **Tools that I use:**
 - [Android Studio](https://developer.android.com/studio)
 - Obviously [git](https://www.git-scm.com)
+- [lazygit](https://github.com/jesseduffield/lazygit), because I'm lazy
+- [zsh](https://www.zsh.org/) + [ohmyzsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [alacritty](https://github.com/alacritty/alacritty)
+- [Brave Browser](https://brave.com/)
 - [Arch Linux](https://archlinux.org) (hehe)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - And more...
