@@ -1,6 +1,6 @@
 <h1>Iyxan23 (NurIhsan)</h1> <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-Hi, I'm a 13 y.o kid that likes to code. I currently am working on a big project, [OpenBlocks](https://github.com/OpenBlocksTeam)! An open-source, modular alternative to Sketchware
+Hi, I'm a 14 y.o kid that likes to code, Fascinated by code since I was 10. I currently am working on a big project, [OpenBlocks](https://github.com/OpenBlocksTeam)! An open-source, modular alternative to Sketchware
 
 You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twitter.com/Iyxan23), and [Telegram](https://t.me/Iyxan23).
 
