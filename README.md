@@ -40,6 +40,7 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 - IoT
 - Hardware engineering
 - Video / Audio encoding & decoding
+- Media Streaming
 
 ---------
 
