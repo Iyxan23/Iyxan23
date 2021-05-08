@@ -32,6 +32,7 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 ----------
 
 **Stuff that I want to learn:**
+- Kotlin and Jetpack components
 - Qt and Gtk
 - osdev (I had learned some, but haven't gotten to understand it deeper yet)
 - More about google's material package on android
