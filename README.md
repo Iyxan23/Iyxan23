@@ -4,6 +4,8 @@ Hi, I'm a 14 y.o kid that likes to code, fascinated by code since I was 10.
 
 You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twitter.com/Iyxan23), and [Telegram](https://t.me/Iyxan23).
 
+I'm currently taking a break on doing projects on github for some days, you might not see any activities on my profile.
+
 <img src="https://komarev.com/ghpvc/?username=Iyxan23" alt="Iyxan23" />
 
 ----------
