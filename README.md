@@ -16,6 +16,8 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 - PHP/MySQL
 - Dart
 
+**Currently learning:** Rust and django (and some DevOps)
+
 ----------
 
 **Tools that I use:**
