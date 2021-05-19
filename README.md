@@ -38,7 +38,6 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 - Qt and Gtk
 - osdev (I had learned some, but haven't gotten to understand it deeper yet)
 - More about google's material package on android
-- _Chess_
 - The linux kernel :^)
 - IoT
 - Hardware engineering
