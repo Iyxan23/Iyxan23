@@ -51,9 +51,8 @@ I'm currently taking a break on doing projects on github for some days, you migh
 <h1>Statistic 🏅</h1> <img alt="Iyxan23's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
 **Currently Active Repositories:**
-- [OpenBlocksTeam/openblocks-app](https://github.com/ThatCakeID/OpenBlocksTeam/openblocks-app)
-- [OpenBlocksTeam/openblocks-module-interface](https://github.com/ThatCakeID/OpenBlocksTeam/openblocks-module-interface)
-- [OpenBlocksTeam/sketchware-blocks-view](https://github.com/OpenBlocksTeam/sketchware-blocks-view)
+- [streamd](https://github.com/Iyxan23/streamd)
+- personal-page (private repo)
 - [Iyxan23/sk-collab](https://github.com/ThatCakeID/os-thm-android)
 
 ----------
