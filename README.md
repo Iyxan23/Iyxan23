@@ -13,7 +13,7 @@ I'm currently taking a break on doing projects on github for some days, you migh
 **Languages I use:**
 - Python 3
 - Java/XML (Android)
-- C/C++
+- C++
 - C# (Unity)
 - PHP/MySQL
 - Dart
