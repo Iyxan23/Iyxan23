@@ -21,7 +21,7 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 
 ----------
 
-<h1>Statistic 🏅</h1> <img alt="Iyxan23's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
+<h1>Statistic 🏅</h1> <img alt="Iyxan23's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Iyxan23&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
 
 **Currently Active Repositories:**
 - [eplk](https://github.com/Iyxan23/eplk)
