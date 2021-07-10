@@ -14,7 +14,7 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 - Android framework
 - Plain webdev
 
-**Currently learning:** Jekyll
+**Currently learning:** Jekyll and V
 
 ----------
 
