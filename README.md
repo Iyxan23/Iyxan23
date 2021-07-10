@@ -8,16 +8,13 @@ You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twit
 
 ----------
 
-**Languages I use:**
+**I use these languages:**
 - Python 3
-- Java/XML (Android)
+- Java/Kotlin
+- Android framework
 - Plain webdev
-- C++
-- C# (Unity)
-- PHP/MySQL
-- Dart
 
-**Currently learning:** Rust and django (and some DevOps)
+**Currently learning:** Jekyll
 
 ----------
 
