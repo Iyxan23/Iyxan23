@@ -1,6 +1,6 @@
 <h1>Iyxan23 (NurIhsan)</h1>
 
-Hi, I'm a 14 y.o kid that likes to code, fascinated by code since I was 10.
+Hi, I'm a 14 y.o kid that likes to code, I started my coding journey at the age of 10.
 
 You can contact me on [Discord](https://dsc.bio/Iyxan23), [Twitter](https://twitter.com/Iyxan23), and [Telegram](https://t.me/Iyxan23).
 
